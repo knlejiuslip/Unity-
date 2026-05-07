@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mygame\\unity_project\\GrassCollider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|c:\\mygame\\unity_project\\grasscollider\\assets\\grasscollider\\script\\grasscollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|solutionrelative:assets\\grasscollider\\script\\grasscollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|C:\\Mygame\\unity_project\\GrassCollider\\assets\\grasscollider\\shaders\\grasscollider.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|solutionrelative:assets\\grasscollider\\shaders\\grasscollider.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|C:\\Mygame\\unity_project\\GrassCollider\\assets\\grasscollider\\shaders\\lib\\grass.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|solutionrelative:assets\\grasscollider\\shaders\\lib\\grass.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|C:\\Mygame\\unity_project\\GrassCollider\\assets\\grasscollider\\script\\getplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24EA397-4405-D8B2-D3CF-EDEB5DD8A059}|Assembly-CSharp.csproj|solutionrelative:assets\\grasscollider\\script\\getplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grass.cginc",
+              "DocumentMoniker": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Shaders\\lib\\Grass.cginc",
+              "RelativeDocumentMoniker": "Assets\\GrassCollider\\Shaders\\lib\\Grass.cginc",
+              "ToolTip": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Shaders\\lib\\Grass.cginc",
+              "RelativeToolTip": "Assets\\GrassCollider\\Shaders\\lib\\Grass.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-03-09T12:17:04.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrassCollider.shader",
+              "DocumentMoniker": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Shaders\\GrassCollider.shader",
+              "RelativeDocumentMoniker": "Assets\\GrassCollider\\Shaders\\GrassCollider.shader",
+              "ToolTip": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Shaders\\GrassCollider.shader",
+              "RelativeToolTip": "Assets\\GrassCollider\\Shaders\\GrassCollider.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-03-09T12:15:33.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrassCollider.cs",
+              "DocumentMoniker": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Script\\GrassCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\GrassCollider\\Script\\GrassCollider.cs",
+              "ToolTip": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Script\\GrassCollider.cs",
+              "RelativeToolTip": "Assets\\GrassCollider\\Script\\GrassCollider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:15:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPlayerPos.cs",
+              "DocumentMoniker": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Script\\GetPlayerPos.cs",
+              "RelativeDocumentMoniker": "Assets\\GrassCollider\\Script\\GetPlayerPos.cs",
+              "ToolTip": "C:\\Mygame\\unity_project\\GrassCollider\\Assets\\GrassCollider\\Script\\GetPlayerPos.cs",
+              "RelativeToolTip": "Assets\\GrassCollider\\Script\\GetPlayerPos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:15:22.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
